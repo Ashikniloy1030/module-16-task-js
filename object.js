@@ -14,7 +14,7 @@
 const person = {
     'Ashik Niloy': 'he is a good person',
     'he : hello': 'ei khane clone use kore variable declare kora jay',
-    'fav place':['bandarban', 'cox-bazar', 'sajek'],
+    'fav place': ['bandarban', 'cox-bazar', 'sajek'],
 }
 // console.log(person['Ashik Niloy']);
 const ghurteJabo = person['fav place'];
